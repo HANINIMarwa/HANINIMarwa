@@ -7,6 +7,7 @@ Looking for a **4–6 month end-of-studies internship (PFE) from February 2027**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marwa%20Hanini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marwa-hanini-9421663b5)
 [![GitHub](https://img.shields.io/badge/GitHub-HANINIMarwa-181717?style=flat&logo=github&logoColor=white)](https://github.com/HANINIMarwa)
+[![Email](https://img.shields.io/badge/Email-marwahanini119%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:marwahanini119@gmail.com)
 
 ---
 
@@ -72,4 +73,4 @@ My focus areas are **predictive modeling**, **data pipelines** and **applied AI 
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/marwa-hanini-9421663b5) · [GitHub](https://github.com/HANINIMarwa)
+[LinkedIn](https://linkedin.com/in/marwa-hanini-9421663b5) · [GitHub](https://github.com/HANINIMarwa) · [marwahanini119@gmail.com](mailto:marwahanini119@gmail.com)
