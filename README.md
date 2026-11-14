@@ -1,4 +1,4 @@
-# Marwa Hanini
+# Marwa HANINI
 
 **Big Data Engineering student (3rd year) · Data Science · Machine Learning · Data Engineering**
 EIDIA, Université Euromed de Fès, Morocco
